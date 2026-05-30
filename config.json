@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productuender",
+        "uuid": 5877760,
+        "checksum": "itovp"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
